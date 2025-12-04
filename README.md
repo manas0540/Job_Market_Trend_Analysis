@@ -20,16 +20,23 @@ Technical Approach:
 1.Data Extraction & Cleaning:
 
 •SQL queries using joins, subqueries, window functions, and aggregations.
+
 •Filtered for non-null salaries and remote positions.
 
 
 2. Analysis:
+
 •Identified top-paying roles with salary ranges.
+
 •Determined most in-demand skills by frequency across postings.
+
 •Linked skills to high salaries to prioritize learning paths.
 
-3. Visualization:
+
+4. Visualization
+
 Power BI dashboard visualizes salary distributions, skill demand, and job trends.
+
 
 Key Insights:
 
