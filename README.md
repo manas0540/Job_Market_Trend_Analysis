@@ -1,65 +1,55 @@
-Project Overview
+💼 Job Market Analysis (SQL & Power BI)
+1. 📌 Project Overview
 
 Understanding in-demand skills and high-paying job opportunities is critical for career growth. This project analyzes job postings data to uncover trends in salaries, skills, and remote opportunities for Data Analysts, using SQL for data extraction and Power BI for visualization.
 
-Key Features
+2. ✨ Key Features
 
-1.Identify the top 10 highest-paying Data Analyst roles (remote-friendly).
+💰 Top-Paying Roles: Identify the top 10 highest-paying Data Analyst positions (remote-friendly).
 
-2.Analyze the most in-demand skills across the job market.
+📊 In-Demand Skills: Analyze the most sought-after skills across the job market.
 
-3.Combine salary and skill insights to highlight high-value skills.
+🚀 High-Value Skills: Combine salary and skill data to highlight skills that maximize career potential.
 
-4.Interactive Power BI dashboard for exploring trends by role, company, and location.
+📈 Interactive Dashboard: Explore trends by role, company, and location with Power BI.
 
-Technical Approach
+3. 🛠 Technical Approach
 
-Data Extraction & Cleaning:
+3.1 Data Extraction & Cleaning:
 
-SQL queries with joins, subqueries, Windows function  and aggregations.
+SQL queries using joins, subqueries, window functions, and aggregations.
 
 Filtered for non-null salaries and remote positions.
 
-Analysis:
+3.2 Analysis:
 
-Top-paying roles identified with salary ranges.
+Identified top-paying roles with salary ranges.
 
-Most in-demand skills determined by frequency across postings.
+Determined most in-demand skills by frequency across postings.
 
-Skills linked to high salaries to prioritize learning paths.
+Linked skills to high salaries to prioritize learning paths.
 
-Visualization:
+3.3 Visualization:
 
 Power BI dashboard visualizes salary distributions, skill demand, and job trends.
 
-Key Insights
+4. 📌 Key Insights
 
-Top Employers: Mantys, Meta, AT&T, SmartAsset, and others.
+🏢 Top Employers: Mantys, Meta, AT&T, SmartAsset, and others.
 
-High-Demand Skills: SQL, Excel, Python, Tableau, Power BI.
+💻 High-Demand Skills: SQL, Excel, Python, Tableau, Power BI.
 
-High-Value Skills: Azure, AWS, BigQuery, Python, Tableau, SQL.
+🌟 High-Value Skills: Azure, AWS, BigQuery, Python, Tableau, SQL.
 
+5. 📊 Dashboard & Demo
 
+🖥️ Power BI Dashboard: View Dashboard
 
-Dashboard & Demo
+🎥 Project Demo Video: Watch Video
 
-Power BI Dashboard: View Dashboard
-
-Project Demo Video: Watch Video
-
-
-
-
-
-Tech Stack
+6. 🧰 Tech Stack
 
 SQL – Data extraction, cleaning, and analysis
 
 Power BI – Interactive dashboards and visualizations
-
-
-
-
-
 
