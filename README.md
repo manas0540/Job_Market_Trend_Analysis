@@ -41,13 +41,16 @@ Power BI dashboard visualizes salary distributions, skill demand, and job trends
 Key Insights:
 
 🏢 Top Employers: Mantys, Meta, AT&T, SmartAsset, and others.
+
 💻 High-Demand Skills: SQL, Excel, Python, Tableau, Power BI.
+
 🌟 High-Value Skills: Azure, AWS, BigQuery, Python, Tableau, SQL.
 
 
 📊 Dashboard & Demo:
 
 🖥️ Power BI Dashboard: View Dashboard
+
 🎥 Project Demo Video: Watch Video
 
 
