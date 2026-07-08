@@ -56,7 +56,5 @@ Project Demo Video: Watch Video
 
 Tech Stack:
 
-Python ( Pandas, Matplotlib , Seaborn)  – Data extraction, cleaning, analysis & visualization
-SQL     - Query Writing
-Power BI – Interactive dashboards and visualizations
+Python ( Pandas, Matplotlib , Seaborn) , MySQL,  Power BI – Interactive dashboards and visualizations
 
