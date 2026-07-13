@@ -2,7 +2,7 @@ Job Market Analysis (Panda's, SQL & Power BI)
 
 Project Overview:
 
-Understanding in-demand skills and high-paying job opportunities is critical for career growth. This project analyzes job postings data to uncover trends in salaries, skills, and remote opportunities for Data Analysts, using Python , SQL for Data extraction, cleaning, analysis and Power BI for visualization.
+Understanding in-demand skills and high-paying job opportunities is critical for career growth. This project analyzes job postings data to uncover trends in salaries, skills, and opportunities for Data Roles , using Python , SQL for Data extraction, cleaning, analysis and Power BI for visualization.
 
 Key Features:
 
@@ -17,7 +17,7 @@ Key Features:
 
 Technical Approach:
 
-1.Data Extraction & Cleaning:
+1.Data Extraction & Cleaning.
 
 •SQL queries using joins, subqueries, window functions, and aggregations.
 
@@ -36,6 +36,8 @@ Technical Approach:
 4. Visualization
 
 Power BI dashboard visualizes salary distributions, skill demand, and job trends.
+
+5. ML Prediction & Optimization
 
 
 Key Insights:
